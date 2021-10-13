@@ -27,7 +27,7 @@ Send Me Any Direct Link Or YouTube or Video Link I Will Upload To PDisk And Give
 
 Read /help Carefully & Do Follow All Given Instruction... __
 
-✪ » **Create Your Own bot for Personal use** ⤵️
+
 """
 
 HELP = """
@@ -61,9 +61,9 @@ So,be Patient 😴😴😴😴"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🍿 Source Code 🍿', url='https://github.com/OO7ROBot/Pdisk-Upload-Bot')
+        InlineKeyboardButton('My Father', url='https://telegram.me/Bot_Flix')
         ],[
-        InlineKeyboardButton('Channel', url='https://telegram.me/MyTestBotZ'),
+        InlineKeyboardButton('Channel', url='https://telegram.me/MoviesHubFlix'),
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('Close', callback_data='close')
         ]]
